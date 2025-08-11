@@ -24,3 +24,12 @@ Break all the bricks, keep the ball in play, and aim for the high score! 🏆
 ---
 
 ## 📂 Project Structure
+
+BrickBreaker/
+├── Game.java # Entry point (runs the game)
+├── GamePanel.java # Game loop, rendering, and input
+├── Ball.java # Ball movement & collision
+├── Paddle.java # Paddle movement & rendering
+├── MapGenerator.java # Brick layout & drawing
+├── GameConstants.java # Game settings & constants
+└── README.md # You are here
